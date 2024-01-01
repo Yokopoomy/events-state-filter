@@ -3,7 +3,7 @@
 
 Необходимо реализовать портфолио с фильтрами, аналогичное указанному на изображении.
 
-![portfolio-all](.src/assets/portfolio-all.png)
+![portfolio-all](./src/assets/portfolio-all.png)
 
 ## Описание проекта
 
